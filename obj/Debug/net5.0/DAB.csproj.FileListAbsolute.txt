@@ -1,0 +1,16 @@
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\bin\Debug\net5.0\DAB.exe
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\bin\Debug\net5.0\DAB.deps.json
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\bin\Debug\net5.0\DAB.runtimeconfig.json
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\bin\Debug\net5.0\DAB.runtimeconfig.dev.json
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\bin\Debug\net5.0\DAB.dll
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\bin\Debug\net5.0\ref\DAB.dll
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\bin\Debug\net5.0\DAB.pdb
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\obj\Debug\net5.0\DAB.csproj.AssemblyReference.cache
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\obj\Debug\net5.0\DAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\obj\Debug\net5.0\DAB.AssemblyInfoInputs.cache
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\obj\Debug\net5.0\DAB.AssemblyInfo.cs
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\obj\Debug\net5.0\DAB.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\obj\Debug\net5.0\DAB.dll
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\obj\Debug\net5.0\ref\DAB.dll
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\obj\Debug\net5.0\DAB.pdb
+C:\Users\Mohammad Omer\source\repos\DAB\DAB\obj\Debug\net5.0\DAB.genruntimeconfig.cache
